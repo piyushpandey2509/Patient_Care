@@ -61,4 +61,4 @@ A user-friendly Streamlit app is built for real-time predictions.
 - Modify paths or parameters if needed for your local environment.
 
 ## Author 
-[LinkedIn Profile](www.linkedin.com/in/piyushkumar451)
+[LinkedIn Profile](https://www.linkedin.com/in/piyushkumar451)
